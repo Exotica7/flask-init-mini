@@ -1,2 +1,2 @@
 # flask-init-mini
-Flask
+Boilerplate for Flask projects
